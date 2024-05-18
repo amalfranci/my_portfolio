@@ -5,6 +5,7 @@ import netflix from '../assets/projects/netflix.png'
 import olx from '../assets/projects/olx.png'
 import weather from '../assets/projects/weather.png'
 import todo from '../assets/projects/To_do.png'
+import foodrecipe from '../assets/projects/food_recipe.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
@@ -56,6 +57,14 @@ const Projects = () => {
 "The Todo App, built with React, assists users in creating, organizing, prioritizing, and tracking tasks.",
       demo: "https://660527be7282055e0b0950fa--delightful-toffee-1a0ca8.netlify.app/",
       code: "https://github.com/amalfranci/Todo_app"
+    },
+    {
+      id: 7,
+      src: foodrecipe,
+      desc: 
+"This is a Recipe Finder application using React and Redux that allows users to search for recipes based on ingredients they have,and able to browse through search results, view recipe details, and save their favorite recipes.",
+      demo: "https://snazzy-moxie-608ca4.netlify.app/",
+      code: "https://github.com/amalfranci/food_recipe_app"
     },
   ]
 
