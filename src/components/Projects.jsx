@@ -4,7 +4,7 @@ import ecom from '../assets/projects//E_com.png'
 import netflix from '../assets/projects/netflix.png'
 import olx from '../assets/projects/olx.png'
 import weather from '../assets/projects/weather.png'
-import todo from '../assets/projects/To_do.png'
+
 import foodrecipe from '../assets/projects/food_recipe.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
