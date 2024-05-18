@@ -50,16 +50,16 @@ const Projects = () => {
       demo: "https://cosmic-beijinho-6a929c.netlify.app/",
       code: "https://github.com/amalfranci/Weather_React"
     },
+//     {
+//       id: 6,
+//       src: todo,
+//       desc: 
+// "The Todo App, built with React, assists users in creating, organizing, prioritizing, and tracking tasks.",
+//       demo: "https://660527be7282055e0b0950fa--delightful-toffee-1a0ca8.netlify.app/",
+//       code: "https://github.com/amalfranci/Todo_app"
+//     },
     {
       id: 6,
-      src: todo,
-      desc: 
-"The Todo App, built with React, assists users in creating, organizing, prioritizing, and tracking tasks.",
-      demo: "https://660527be7282055e0b0950fa--delightful-toffee-1a0ca8.netlify.app/",
-      code: "https://github.com/amalfranci/Todo_app"
-    },
-    {
-      id: 7,
       src: foodrecipe,
       desc: 
 "This is a Recipe Finder application using React and Redux that allows users to search for recipes based on ingredients they have,and able to browse through search results, view recipe details, and save their favorite recipes.",
