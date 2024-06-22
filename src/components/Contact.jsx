@@ -28,7 +28,7 @@ const Contact = () => {
                     </div>
                     <div className='md:w-1/2 mt-4 md:mt-0'>
                         <h2 className='text-xl font-semibold mb-2'>Phone</h2>
-                        <p>9946392423</p>
+                        <p>8075392424</p>
                     </div>
                     
                 </div>
